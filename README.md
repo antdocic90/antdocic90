@@ -1,20 +1,38 @@
-- 👜 Team Leader | Analista de dados | DEV
+# 👜 Team Leader | Analista de Dados | DEV
 
-- Foco em melhorias praticas e objetivas
- 
-<div style="display: flex; gap:10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=antdocic90&show_icons=true&theme=merko"  style="height: 200px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antdocic90&layout=donut&theme=merko"  style="height: 200px;">
+Foco em **melhorias práticas e objetivas** para impulsionar resultados e eficiência.
+
+---
+
+## 📊 Minhas Estatísticas
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=antdocic90&show_icons=true&theme=merko" alt="GitHub Stats" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antdocic90&layout=donut&theme=merko" alt="Linguagens Mais Usadas" style="height: 200px;"/>
 </div>
- 
-<div>
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" style="height: 50px;"/>
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="height: 50px;"/>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" style="height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" style="height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vba/vba-plain.svg" alt="VBA" style="height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="height: 50px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" style="height: 50px;"/>
 </div>
- 
- 
-<div>
-<a href="https://www.linkedin.com/in/anthonyjapereira" rel="nofollow"><img src="https://camo.githubusercontent.com/7fee771b415a6f144501304c2c4074aa62a0dd96ddc0f8c0aafd95ac0af584c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+
+---
+
+## 🌟 Destaques
+- 🌍 Experiência em projetos globais envolvendo **análise de dados** e **automação de processos**.
+- 🛠️ Desenvolvimento de ferramentas práticas em **Python**, **PL/SQL** e **VBA**.
+- 🚀 Gestão de equipe e foco em **melhoria contínua**.
+
+---
+
+## 🌐 Contato
+<div align="center">
+  <a href="https://www.linkedin.com/in/anthonyjapereira" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
 </div>
