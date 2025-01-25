@@ -62,6 +62,8 @@ Uma solução inteligente que:
   </a>
 </div>
 
+---
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <!-- Seguidores -->
   <img src="https://img.shields.io/github/followers/antdocic90?style=social" alt="Seguidores do GitHub"/>
@@ -71,3 +73,4 @@ Uma solução inteligente que:
   <img src="https://komarev.com/ghpvc/?username=antdocic90&color=green" alt="Visualizações do perfil"/>
 </div>
 
+---
