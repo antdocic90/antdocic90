@@ -16,20 +16,19 @@ Foco em **melhorias práticas e objetivas** para impulsionar resultados e efici�
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" style="height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" style="height: 50px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" alt="VBA/Excel" style="height: 50px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_Excel_2013-2019_logo.svg" alt="Excel Avançado" style="height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="height: 50px;"/>
   <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" style="height: 50px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" style="height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" style="height: 50px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Power_bi_icon.svg" alt="Business Intelligence (BI)" style="height: 50px;"/>
 </div>
 
 ---
 
 ## 🌟 Destaques
 - 🌍 Experiência em projetos globais envolvendo **análise de dados**, **automação de processos** e **Business Intelligence (BI)**.
-- 🛠️ Desenvolvimento de ferramentas práticas em **Python**, **PL/SQL**, **VBA**, **Pandas** e **Power BI**.
+- 🛠️ Desenvolvimento de ferramentas práticas em **Python**, **PL/SQL**, **Excel Avançado**, **Pandas** e **Power BI**.
 - 🚀 Gestão de equipe com foco em **melhoria contínua** e adoção de **tecnologias modernas**, como **Docker**.
 
 ---
