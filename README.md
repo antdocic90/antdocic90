@@ -16,7 +16,7 @@ Foco em **melhorias práticas e objetivas** para impulsionar resultados e efici�
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" style="height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" style="height: 50px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_Excel_2013-2019_logo.svg" alt="Excel Avançado" style="height: 50px;"/>
+  <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" alt="Excel Avançado" style="height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="height: 50px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="height: 50px;"/>
   <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" style="height: 50px;"/>
@@ -29,7 +29,22 @@ Foco em **melhorias práticas e objetivas** para impulsionar resultados e efici�
 ## 🌟 Destaques
 - 🌍 Experiência em projetos globais envolvendo **análise de dados**, **automação de processos** e **Business Intelligence (BI)**.
 - 🛠️ Desenvolvimento de ferramentas práticas em **Python**, **PL/SQL**, **Excel Avançado**, **Pandas** e **Power BI**.
-- 🚀 Gestão de equipe com foco em **melhoria contínua** e adoção de **tecnologias modernas**, como **Docker**.
+- 🔄 **Conversão e migração de dados**, garantindo consistência e confiabilidade no processo.
+- 🚀 **Implantação de novos sistemas**, incluindo planejamento, execução e suporte pós-implantação.
+- 📈 Gestão de equipe com foco em **melhoria contínua** e adoção de **tecnologias modernas**, como **Docker**.
+
+---
+
+## 💡 Programas Desenvolvidos
+### 🔹 MTP IVA
+Um programa integrado ao **SAP S/4HANA** que:
+- Define automaticamente o **código de imposto** de acordo com a **regra fiscal** definida.
+- Simplifica o processo de configuração fiscal, reduzindo erros manuais e aumentando a eficiência.
+
+### 🔹 MTP GradeFis
+Ferramenta avançada que:
+- Gera automaticamente uma **grade fiscal** para novos produtos.
+- Baseia-se em produtos semelhantes já cadastrados no sistema, agilizando o cadastro de produtos e garantindo consistência fiscal.
 
 ---
 
