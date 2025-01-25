@@ -1,4 +1,6 @@
 - 👜 Team Leader | Analista de dados | DEV
+
+- Foco em melhorias praticas e objetivas
 - 
 <div style="display: flex; gap:10px;">
 <img src="https://github-readme-stats.vercel.app/api?username=antdocic90&show_icons=true&theme=merko"  style="height: 200px;">
