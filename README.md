@@ -1,10 +1,10 @@
 # 👜 Team Leader | Analista de Dados | DEV
 
 Foco em **melhorias práticas e objetivas** para impulsionar resultados e eficiência.
-
+<!--
 ---
 
-<!--## 📊 Minhas Estatísticas
+## 📊 Minhas Estatísticas
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=antdocic90&show_icons=true&theme=merko" alt="GitHub Stats" style="height: 200px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antdocic90&layout=donut&theme=merko" alt="Linguagens Mais Usadas" style="height: 200px;"/>
