@@ -32,6 +32,7 @@ Foco em **melhorias práticas e objetivas** para impulsionar resultados e efici�
 - 🔄 **Conversão e migração de dados**, garantindo consistência e confiabilidade no processo.
 - 🚀 **Implantação de novos sistemas**, incluindo planejamento, execução e suporte pós-implantação.
 - 📈 Gestão de equipe com foco em **melhoria contínua** e adoção de **tecnologias modernas**, como **Docker**.
+- 🔗 Experiência sólida com processos **ETL** e **ELT**, otimizando fluxos de dados entre sistemas.
 
 ---
 
@@ -45,6 +46,12 @@ Um programa integrado ao **SAP S/4HANA** que:
 Ferramenta avançada que:
 - Gera automaticamente uma **grade fiscal** para novos produtos.
 - Baseia-se em produtos semelhantes já cadastrados no sistema, agilizando o cadastro de produtos e garantindo consistência fiscal.
+
+### 🔹 MTP Extrator
+Uma solução inteligente que:
+- **Extrai dados** do banco de dados considerando as **regras do sistema de destino**.
+- Adapta os arquivos extraídos conforme o **tamanho final**, **formato** e outras restrições específicas.
+- Automatiza o processo de extração, minimizando falhas e garantindo que os dados estejam prontos para uso imediato.
 
 ---
 
