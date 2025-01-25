@@ -4,18 +4,6 @@ Foco em **melhorias práticas e objetivas** para impulsionar resultados e efici�
 
 ---
 
-## 🚀 Minhas Badges do GitHub
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <!-- Seguidores -->
-  <img src="https://img.shields.io/github/followers/antdocic90?style=social" alt="Seguidores do GitHub"/>
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/antdocic90?style=social" alt="Estrelas em repositórios"/>
-  <!-- Visitas no perfil -->
-  <img src="https://komarev.com/ghpvc/?username=antdocic90&color=green" alt="Visualizações do perfil"/>
-</div>
-
----
-
 ## 📊 Minhas Estatísticas
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=antdocic90&show_icons=true&theme=merko" alt="GitHub Stats" style="height: 200px;"/>
@@ -73,3 +61,13 @@ Uma solução inteligente que:
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <!-- Seguidores -->
+  <img src="https://img.shields.io/github/followers/antdocic90?style=social" alt="Seguidores do GitHub"/>
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/antdocic90?style=social" alt="Estrelas em repositórios"/>
+  <!-- Visitas no perfil -->
+  <img src="https://komarev.com/ghpvc/?username=antdocic90&color=green" alt="Visualizações do perfil"/>
+</div>
+
